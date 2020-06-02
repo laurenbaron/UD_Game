@@ -12,4 +12,5 @@ Attack the other team's HengineerPiece in order to win the game!
 Authors:
 
 Swetha Sankar: @swetha-sankar
+
 Lauren Baron: @laurenbaron
